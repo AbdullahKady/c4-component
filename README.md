@@ -7,6 +7,7 @@
 <h3>Authors:</h3>
 <ul>
 	<li>Abdullah Elkady - 37-16401</li>
+	<li>Mohamed El-Far - 37-4781</li>
 </ul>
 <hr>
 <h3 text-align="center" >About:</h3>
@@ -15,5 +16,5 @@
 <h4>Details about each team member:</h4> 
 <ul>
 	<li>Abdullah Elkady > A person who is trying super hard to blend in with the "geek-y" community, and is failing miserably ._.</li>
-	
+	<li>Mohamed El-Far > People call me a lazy person</li>
 </ul> 
