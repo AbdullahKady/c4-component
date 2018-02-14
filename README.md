@@ -26,7 +26,7 @@
 <h5>Conflicts: </h5>
 
 <ul>
-	<li>Hazem</li>
+	<li>Hazem - master</li>
 	<li>conflictKady - Success !!</li>
 	<li>Salma</li>
 	<li>Mohammed - SUCCESS</li>
