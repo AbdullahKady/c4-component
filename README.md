@@ -17,6 +17,6 @@
 <h4>Details about each team member:</h4> 
 <ul>
 	<li>Abdullah Elkady > A person who is trying super hard to blend in with the "geek-y" community, and is failing miserably ._.</li>
-	<li>Mohamed El-Far > People call me a lazy person</li>
+	<li>Mohamed El-Far > People call me a lazy person as sohail</li>
 	<li>Hazem Hisham > Not as lazy as mohamed</li>
 </ul> 
